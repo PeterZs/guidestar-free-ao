@@ -135,7 +135,7 @@ If you find this work helpful, please consider citing:
     doi = {10.1145/3809501},
     journal = {ACM Trans. Graph.},
     month = jun,
-    articleno = {39},
+    articleno = {171},
     numpages = {17},
 }
 ```
